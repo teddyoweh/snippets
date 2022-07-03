@@ -1,2 +1,2 @@
 # snippets
-Code Snippets using the Markdown Formatting
+My Code Snippets using the Markdown Formatting
