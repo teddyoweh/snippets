@@ -1,7 +1,7 @@
 #### [Twitter Post](https://twitter.com/pickover/status/1543376324110213121)
 ![image](https://pbs.twimg.com/media/FEwkB1iWYAg0E6b?format=jpg&name=small)
 
-#### My Reply
+#### [My Reply](https://twitter.com/tedddyoweh/status/1543520334011408389)
 
 Quick python code to prove statement
 
